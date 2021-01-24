@@ -1,0 +1,12 @@
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\bin\Debug\netcoreapp2.1\MatchMaker.deps.json
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\bin\Debug\netcoreapp2.1\MatchMaker.runtimeconfig.json
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\bin\Debug\netcoreapp2.1\MatchMaker.runtimeconfig.dev.json
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\bin\Debug\netcoreapp2.1\MatchMaker.dll
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\bin\Debug\netcoreapp2.1\MatchMaker.pdb
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.csprojAssemblyReference.cache
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.AssemblyInfoInputs.cache
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.AssemblyInfo.cs
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.csproj.CoreCompileInputs.cache
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.dll
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.pdb
+C:\Users\sewmi\source\repos\MatchMaker\MatchMaker\obj\Debug\netcoreapp2.1\MatchMaker.genruntimeconfig.cache
